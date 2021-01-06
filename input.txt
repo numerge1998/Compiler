@@ -1,0 +1,35 @@
+print("inceput")
+a = (2+2*2)/3
+b = 1
+c = [1,2,3,4,5]
+c[4] = 99
+d = c[2] + 6
+print(d)
+e = "sarac"
+print(e)
+e[0] = 'z'
+print(e[0])
+print(e)
+print(c)
+print(c[1] + 4)
+print(d)
+if(a>b) then a=b else b=5
+print(a)
+if(a==b) then c=5
+print("c = ",c)
+if(1>2) then d=1
+print("f = ",f)
+g = 0
+for(z=0;z<10;z=z+2) g=g+1/2
+print(g)
+c = [1,2,3,4]
+for(z=0;z<size(c);z=z+1) print(c[z])
+for(z=0;z<3;z=z+1) print(c)
+for(z=0;z<3;z=z+1) l = l + c[2]
+print(l)
+a = [7,2,8,4,5,4]
+sort(a)
+print("sorted a : ",a)
+remove_duplicates(a)
+print("a without duplicates : ",a)
+print("sfarsit")
